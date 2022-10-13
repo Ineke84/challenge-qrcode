@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -22,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://ineke84.github.io/challenge-qrcode/](https://ineke84.github.io/challenge-qrcode/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-component-using-html-and-css-Hk01okJW_E)
+- Live Site URL: [Add live site URL here](https://ineke84.github.io/challenge-qrcode/)
 
 ## My process
 
@@ -33,6 +34,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
+
+#### Second version
+
+I learned about semantic html/landmarks for the first time. 
+
+
+
+#### First version: 
 
 Not any really new things, but padding and margin are starting to get clearer (did it right te first time)
 
@@ -60,6 +69,10 @@ Not any really new things, but padding and margin are starting to get clearer (d
 
 - Website - [Ineke](no website yet)
 - Frontend Mentor - [@Ineke84](https://www.frontendmentor.io/profile/Ineke84)
+
+## Acknowledgments
+
+Thanks to @Rubylenshy for providing the feedback of my first version that made me aware of semantic html/landmarks.
 
 
 
